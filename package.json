@@ -23,18 +23,20 @@
     ]
   },
   "dependencies": {
+    "@babel/core": "^7.0.0",
     "@chakra-ui/icons": "^1.0.0",
     "@chakra-ui/react": "^1.0.0",
+    "@chakra-ui/system": "^1.1.7",
     "@chakra-ui/theme-tools": "1.0.0",
     "@emotion/react": "11.1.1",
     "@emotion/styled": "11.0.0",
     "amazon-paapi": "^1.0.3",
     "dotenv": "^8.2.0",
-    "framer-motion": "^2.9.4",
+    "framer-motion": "^3.2.1",
     "fs-extra": "^9.1.0",
     "next": "latest",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
     "ts-node": "^9.1.1"
   },
   "devDependencies": {
